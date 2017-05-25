@@ -13,5 +13,10 @@ namespace Module09_01.Controllers
         {
             return View();
         }
+
+        public ActionResult Index2()
+        {
+            return View();
+        }
     }
 }
